@@ -1,0 +1,7 @@
+overlap: [1.0, 0.5]
+confounding: [0.0, 0.6]
+heterogeneity: [0.0, 0.7]
+n: [500]
+estimators: [T, DR]
+seeds: [0, 1]
+n_splits: 2
