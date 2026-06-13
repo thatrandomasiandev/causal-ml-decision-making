@@ -173,18 +173,18 @@ src/causal_ml/
 
 ## References
 
-- Abadie, A. (2003). Semiparametric instrumental variable estimation of treatment response. *Journal of Econometrics*.
-- Devriendt, F., et al. (2020). Why you should stop predicting customer churn and start uplifting them. *Machine Learning*.
-- Dudík, M., Langford, J., & Li, L. (2011). Doubly robust policy evaluation and optimization. *ICML*.
-- Hill, J. L. (2011). Bayesian nonparametric modeling for causal inference. *Journal of Computational and Graphical Statistics*.
-- Kennedy, E. H. (2022). Towards optimal doubly robust estimation of heterogeneous causal effects. *arXiv:2004.14497*.
-- Künzel, S. R., et al. (2019). Metalearners for estimating heterogeneous treatment effects using machine learning. *PNAS*.
-- Nie, X., & Wager, S. (2021). Quasi-oracle estimation of heterogeneous treatment effects. *Biometrika*.
+- Abadie, A. (2003). Semiparametric instrumental variable estimation of treatment response. *Journal of Econometrics*, 113(2), 231–263. [DOI](https://doi.org/10.1016/S0304-4076(03)00070-7)
+- Devriendt, F., et al. (2020). Why you should stop predicting customer churn and start uplifting them. *Machine Learning*, 109, 367–393. [DOI](https://doi.org/10.1007/s10994-020-05933-4)
+- Dudík, M., Langford, J., & Li, L. (2011). Doubly robust policy evaluation and optimization. *ICML*. [Proceedings](https://proceedings.mlr.press/v15/dudik11a.html)
+- Hill, J. L. (2011). Bayesian nonparametric modeling for causal inference. *Journal of Computational and Graphical Statistics*, 20(1), 217–240. [DOI](https://doi.org/10.1198/jcgs.2010.08162)
+- Kennedy, E. H. (2022). Towards optimal doubly robust estimation of heterogeneous causal effects. *Electronic Journal of Statistics*. [arXiv](https://arxiv.org/abs/2004.14497)
+- Künzel, S. R., et al. (2019). Metalearners for estimating heterogeneous treatment effects using machine learning. *PNAS*, 116(10), 4156–4165. [DOI](https://doi.org/10.1073/pnas.1804597116)
+- Nie, X., & Wager, S. (2021). Quasi-oracle estimation of heterogeneous treatment effects. *Biometrika*, 108(2), 299–319. [DOI](https://doi.org/10.1093/biomet/asaa097)
 - Radcliffe, N., & Surry, P. (2011). *Real-World Uplift Modelling with Significance-Based Uplift Trees*. Stochastic Solutions.
-- Rubin, D. B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. *Journal of Educational Psychology*.
-- Runge, J., et al. (2019). Detecting and quantifying causal associations in large nonlinear time series datasets. *Science Advances*.
-- Swaminathan, A., & Joachims, T. (2015). The self-normalized estimator for counterfactual learning. *NeurIPS*.
-- Zheng, X., et al. (2018). DAGs with NO TEARS: Continuous optimization for structure learning. *NeurIPS*.
+- Rubin, D. B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. *Journal of Educational Psychology*, 66(5), 688–701. [DOI](https://doi.org/10.1037/h0037350)
+- Runge, J., et al. (2019). Detecting and quantifying causal associations in large nonlinear time series datasets. *Science Advances*, 5(11), eaau4996. [DOI](https://doi.org/10.1126/sciadv.aau4996)
+- Swaminathan, A., & Joachims, T. (2015). The self-normalized estimator for counterfactual learning. *NeurIPS*. [Proceedings](https://papers.nips.cc/paper/5747-the-self-normalized-estimator-for-counterfactual-learning)
+- Zheng, X., et al. (2018). DAGs with NO TEARS: Continuous optimization for structure learning. *NeurIPS*. [arXiv](https://arxiv.org/abs/1803.01422)
 
 ---
 
