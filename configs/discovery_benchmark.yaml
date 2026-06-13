@@ -1,0 +1,4 @@
+sample_sizes: [1000, 5000]
+seeds: [42, 43]
+lambda1: 0.1
+tau_max: 2

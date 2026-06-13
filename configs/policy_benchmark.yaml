@@ -1,0 +1,4 @@
+n_samples: 5000
+epsilons: [0.1, 0.3]
+seeds: [42, 43]
+n_splits: 3

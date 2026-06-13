@@ -1,0 +1,11 @@
+seed: 42
+seeds: [42, 43, 44]
+n_splits: 3
+n_samples: 5000
+n_features: 10
+confounding_strength: 1.0
+noise_std: 0.5
+epsilon: 0.1
+logging_bias: 0.5
+lambda1: 0.1
+tau_max: 2
